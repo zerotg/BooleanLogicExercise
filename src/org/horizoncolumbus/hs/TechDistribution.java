@@ -1,6 +1,6 @@
 package org.horizoncolumbus.hs;
 
-public class Main {
+public class TechDistribution {
 
     public static void main(String[] args) {
         boolean Junior = false;
